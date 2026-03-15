@@ -1,4 +1,4 @@
-# Quiz App
+## Quiz App
 
 An interactive and responsive **Quiz Application** built using **HTML, CSS, and JavaScript**.
 This project allows users to test their knowledge by answering multiple-choice questions and instantly view their final score.
